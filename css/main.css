@@ -1,0 +1,32 @@
+body{
+	background-color: white;
+}
+/*body{
+	background-color: #111111;
+	color:whitesmoke;
+	font-family: ;
+}*/
+h1{
+
+}
+h2
+{
+	
+}
+p{
+	font-space: 22px;
+	letter-spacing: .5px;
+	margin-top: 0;
+}
+a:{
+	text-decoration: none;
+}
+a:link{
+	color: tomato;
+}
+a:visited{
+	color: blue;
+}
+a:hover {
+	color: darkred;
+}
