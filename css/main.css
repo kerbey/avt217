@@ -7,12 +7,16 @@ body{
 	font-family: ;
 }*/
 h1{
+  	font-family: "interstate", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+  }
+h2{
+  	font-family: "interstate", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+  }
 
-}
-h2
-{
-	
-}
 p{
 	font-space: 22px;
 	letter-spacing: .5px;
@@ -20,6 +24,7 @@ p{
 }
 a:{
 	text-decoration: none;
+	font-family: interstate;
 }
 a:link{
 	color: tomato;
