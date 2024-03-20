@@ -1,3 +1,6 @@
+*{
+	box-sizing: border-box;
+}
 body{
 	background-color: white;
 }
@@ -5,13 +8,29 @@ h1{
   	font-family: "interstate", sans-serif;
 	font-weight: 700;
 	font-style: normal;
-  }
+	font-size: 3rem;
+ }
 h2{
   	font-family: "interstate", sans-serif;
 	font-weight: 700;
 	font-style: normal;
   }
-
+header{
+	width: 90vw;
+	margin: 25px auto;
+	background-color: blue;
+}
+main{
+	width: 90vw;
+	margin: 25px auto;
+	background-color: yellow;
+}
+.column{
+	width: 50%;
+	background-color: red;
+	float: left;
+	display: flow-root;
+}
 p{
 	font-space: 22px;
 	letter-spacing: .5px;
@@ -29,4 +48,10 @@ a:visited{
 }
 a:hover {
 	color: darkred;
+}
+@media screen and (max-width: 1512px) {
+	.column{
+		width: 50%;
+		margin-bottom: 50px;
+	}
 }
