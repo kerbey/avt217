@@ -49,9 +49,9 @@ a:visited{
 a:hover {
 	color: darkred;
 }
-@media screen and (max-width: 1512px) {
+@media screen and (max-width: 900px) {
 	.column{
-		width: 50%;
+		width: 100%;
 		margin-bottom: 50px;
 	}
 }
