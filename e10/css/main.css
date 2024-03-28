@@ -1,0 +1,102 @@
+body{
+	align-content: center;
+}
+header{
+	width: 100%;
+	height: 150px;
+	margin: 25px;
+}
+.red{/*ed square*/
+	background-color: tomato;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.black{/*black square*/
+	background-color: #222222;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.board{/*width for red squares and rectangles*/
+	width: 800px;
+}
+.red2{/*first red box*/
+	background-color: tomato;
+	width: 800px;
+	height: 100px;
+	float: left;
+}
+.white{/*horizontal white box box*/
+	background-color: white;
+	width: 800px;
+	height: 10px;
+	float: left;
+}
+.red3{/*second red box*/
+	background-color: tomato;
+	width: 800px;
+	height: 50px;
+	float: left;
+}
+.red4{/*vertical red boxes*/
+	background-color: tomato;
+	width: 260px;
+	height: 500px;
+	float: left;
+}
+.white2{/*vertical white box*/
+	background-color: white;
+	width: 10px;
+	height: 500px;
+	float: left;
+}
+.blogboxheader
+{
+	background-color: tomato;
+	width: 800px;
+	height: 100px;
+	float: left;
+}
+.blogbodybox{
+	background-color: tomato;
+	width: 600px;
+	height: 500px;
+	float: left;
+}
+.blogbodyspace{
+	background-color: white;
+	width: 20px;
+	height: 500px;
+	float: left;
+}
+.blogbodybox2{
+	background-color: tomato;
+	width: 180px;
+	height: 250px;
+	float: left;
+}
+.blogbodybox3{
+	background-color: tomato;
+	width: 800px;
+	height: 50px;
+	float: left;
+}
+.tenniscourttop{
+	background-color: tomato;
+	width: 400px;
+	height: 250px;
+	float: left;
+}
+.tenniscourttop2{/*vertical red rectangles*/
+	background-color: tomato;
+	width: 160px;
+	height: 500px;
+	float: left;
+}
+.tenniscourttop3{/* red boxes*/
+	background-color: tomato;
+	width: 220px;
+	height: 250px;
+	float: left;
+}
