@@ -4,6 +4,9 @@
 body{
 	background-color: lightgray;
 }
+.newcolor{
+	background-color: lightyellow;
+}
 .top{
 	width: 50%;
 	float: left;
